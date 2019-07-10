@@ -1,0 +1,35 @@
+*{font-family: 'Kanit', sans-serif;}
+.own-container{
+	background-image: url('../img/header.jpg');
+	background-size: cover;
+	padding: 50px 0 270px 0;
+	margin-bottom: 20px;
+}
+h1{
+	text-align: center;
+	font-family: 'Josefin Sans', sans-serif;
+	color: #2d2d2d;
+	font-size: 8vw;
+}
+h2{
+	text-align: center;
+	font-family: 'Kanit', sans-serif;
+	color: #2d2d2d;
+	font-size: 5vw;
+}
+.card-img-top{
+	margin-top: 10px;
+}
+.card-text{
+	text-align: center;
+}
+footer{
+	text-align: center;
+}
+footer a{
+    color: #2d2d2d;
+}
+
+footer a:hover{
+    color: #2d0200;
+}
